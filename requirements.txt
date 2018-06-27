@@ -20,6 +20,5 @@ pyxdg==0.25
 SecretStorage==2.3.1
 six==1.11.0
 SQLAlchemy==1.2.8
-unity-lens-photos==1.0
 virtualenv==16.0.0
 Werkzeug==0.14.1
