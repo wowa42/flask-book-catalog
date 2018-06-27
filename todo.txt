@@ -1,0 +1,11 @@
+cd pyton/project
+git clone https://github.com/haraonline/flask-book-catalog.git
+
+cd pyton/env
+source flask_book_catalog/bin/activate
+
+pip install -r requirements.txt
+
+pip install flask
+pip install SQLAlchemy
+pip install flask-
